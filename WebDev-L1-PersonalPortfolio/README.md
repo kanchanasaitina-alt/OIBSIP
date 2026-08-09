@@ -1,3 +1,13 @@
+## Screenshots
+
+### Home
+![Home](portfolio-home.png)
+
+### About
+![About](portfolio-about.png)
+
+### Contact
+![Contact](portfolio-contact.png)
 # Personal Portfolio
 
 ## Project Overview
