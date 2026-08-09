@@ -1,3 +1,12 @@
+## Screenshots
+
+### Celsius converter
+![Home](converter-celsius.png)
+
+### Result
+![About](converter-result.png)
+
+
 Temperature Converter
 
 ## Project Overview
