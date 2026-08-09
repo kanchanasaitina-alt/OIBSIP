@@ -1,3 +1,16 @@
+## Screenshots
+
+### Home
+![Home](landingpage-home.png)
+
+### About
+![About](landingpage-About.png)
+
+### Shop
+![Shop](landingpage-shop.png)
+
+### Contact
+![Contact](landingpage-contact.png)
 # Landing Page
 
 ## Project Overview
